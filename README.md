@@ -10,4 +10,4 @@ CTF challenge for beginners.
 
 ## References
 
-Checkout the #hacking Slack channel for more info.
+Check out the `#hacking` Slack channel or the official Confluence [page](https://confluence.slc.efscloud.net/display/~htadevosyan/%5BCTF%5D+Breaking+Bits) for more info.
